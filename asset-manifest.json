@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/react-apple/static/css/main.33d077cf.css",
-    "main.js": "/react-apple/static/js/main.bdf8eb5d.js",
+    "main.css": "/react-apple/static/css/main.27703001.css",
+    "main.js": "/react-apple/static/js/main.d1782234.js",
     "static/media/ipad.jpg": "/react-apple/static/media/ipad.bbb18bba8b009dd0a4b8.jpg",
     "static/media/Mac.jpg": "/react-apple/static/media/Mac.115bd00e7388b9bb8984.jpg",
     "static/media/iphone_se.jpg": "/react-apple/static/media/iphone_se.d5dd09eff095f135f460.jpg",
+    "static/media/apple_logo.png": "/react-apple/static/media/apple_logo.cebdde27f98a8c07a9d0.png",
     "static/media/iphone.jpg": "/react-apple/static/media/iphone.a0f447bdd7bf5ebaf353.jpg",
     "index.html": "/react-apple/index.html",
-    "main.33d077cf.css.map": "/react-apple/static/css/main.33d077cf.css.map",
-    "main.bdf8eb5d.js.map": "/react-apple/static/js/main.bdf8eb5d.js.map"
+    "main.27703001.css.map": "/react-apple/static/css/main.27703001.css.map",
+    "main.d1782234.js.map": "/react-apple/static/js/main.d1782234.js.map"
   },
   "entrypoints": [
-    "static/css/main.33d077cf.css",
-    "static/js/main.bdf8eb5d.js"
+    "static/css/main.27703001.css",
+    "static/js/main.d1782234.js"
   ]
 }
