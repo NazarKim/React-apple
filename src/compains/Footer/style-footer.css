@@ -1,0 +1,28 @@
+footer {
+  width: 100%;
+}
+footer selection {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+footer selection ul {
+  list-style-type: none;
+  padding: 10px;
+}
+footer selection li {
+  padding: 10px;
+  color: #303030;
+  cursor: pointer;
+}
+footer selection h4 {
+  font-size: 24px;
+}
+footer selection input {
+  padding: 10px;
+  width: 300px;
+  margin-top: 50px;
+}
+
+/*# sourceMappingURL=style-footer.css.map */

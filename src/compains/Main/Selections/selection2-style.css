@@ -1,0 +1,84 @@
+.selection1-main {
+  color: wheat;
+  background-color: #303030;
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+}
+.selection1-main aside {
+  margin-top: 50px;
+  width: 900px;
+  text-align: center;
+}
+.selection1-main aside .name {
+  display: flex;
+}
+.selection1-main aside .name .product {
+  font-size: 70px;
+  font-weight: 900;
+  padding-left: 100px;
+  text-decoration: none;
+  color: wheat;
+}
+.selection1-main aside .name .product:hover {
+  color: #ffc506;
+  transform: scale(1.1);
+}
+.selection1-main aside .name .product:active {
+  color: #ffedd3;
+  transform: scale(0.9);
+}
+.selection1-main aside h3 {
+  font-size: 30px;
+  padding: 50px;
+}
+.selection1-main aside .btn {
+  font-size: 17px;
+  background: transparent;
+  border: none;
+  padding: 1em 1.5em;
+  color: #ffedd3;
+  text-transform: uppercase;
+  position: relative;
+  transition: 0.5s ease;
+  cursor: pointer;
+  margin-bottom: 100px;
+}
+.selection1-main aside .btn::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 0;
+  background-color: #ffc506;
+  transition: 0.5s ease;
+}
+.selection1-main aside .btn:hover {
+  color: #ffffff;
+  transition-delay: 0.5s;
+}
+.selection1-main aside .btn:hover::before {
+  width: 100%;
+}
+.selection1-main aside .btn::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 0;
+  width: 100%;
+  background-color: #ffc506;
+  transition: 0.4s ease;
+  z-index: -1;
+}
+.selection1-main aside .btn:hover::after {
+  height: 100%;
+  transition-delay: 0.4s;
+  color: aliceblue;
+}
+.selection1-main img {
+  width: 1000px;
+}
+
+/*# sourceMappingURL=selection2-style.css.map */

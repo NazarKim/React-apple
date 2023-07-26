@@ -1,0 +1,24 @@
+header {
+  background-color: black;
+  width: 100%;
+  margin: 0;
+}
+header .title {
+  text-align: center;
+  color: wheat;
+  margin-top: 100px;
+}
+header .title h1 {
+  font-size: 50px;
+  margin: 0;
+}
+header .title p {
+  font-size: 27px;
+}
+header img {
+  width: 900px;
+  margin-left: 28%;
+  margin-top: 200px;
+}
+
+/*# sourceMappingURL=style-header.css.map */

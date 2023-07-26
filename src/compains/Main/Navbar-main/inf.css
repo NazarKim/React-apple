@@ -1,0 +1,18 @@
+main {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+main aside {
+  margin: 200px;
+  width: 1100px;
+}
+main aside h1 {
+  font-weight: 900;
+  font-size: 50px;
+}
+main aside p {
+  font-weight: 800;
+  font-size: 44px;
+}
+
+/*# sourceMappingURL=inf.css.map */
